@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+the main page was modifed to test props between the index.js and the component function App to count user's clicks on the diplayed div  
+
 ## Available Scripts
 
 In the project directory, you can run:
